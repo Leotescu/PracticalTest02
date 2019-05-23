@@ -1,1 +1,2 @@
-# PracticalTest02
+Leotescu Vladut 
+342C2
